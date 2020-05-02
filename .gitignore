@@ -4,3 +4,4 @@ target/
 */*/target/
 /.idea/
 /deployment/nexus-data
+pom.xml.versionsBackup
